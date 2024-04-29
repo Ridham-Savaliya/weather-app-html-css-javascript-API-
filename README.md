@@ -1,5 +1,5 @@
 # weather-app--html-css-javascript-API-
-I created a weather app using html,scc,javascript and API which displays current place temperature,wind speed and also displays the current situation using API(Openweathermap.org)...)
+I created a weather app using html, CSS,javascript and API which displays current place temperature,wind speed and also displays the current situation using API(Openweathermap.org).
 hello Guys So this is my weather app 
 
 #output
